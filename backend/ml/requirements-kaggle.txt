@@ -1,0 +1,6 @@
+# Kaggle supplies CUDA-enabled PyTorch. Do not install a CPU-only torch wheel.
+ultralytics==8.4.134
+PyYAML==6.0.2
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2

@@ -1,0 +1,13 @@
+{
+  "id": "vaibhcodes/backend-ml-train-vision-model-ipynb",
+  "title": "backend-ml-train-vision-model-ipynb",
+  "code_file": "train_vision_model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": ["vaibhcodes/backend-ml-train-vision-model-ipynb"]
+}
